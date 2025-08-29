@@ -25,6 +25,29 @@
 ---
 
 ## 📂 Featured Projects
+- 🔹 [Movie Database SQL Project](https://github.com/jyotigupta17998/SQL---Real-time-mini-project-based-on-a-Movie-Database-IMDb-style) → Real-time project based on an IMDb-style database  
+- 🔹 [Power BI Store Dashboard](https://github.com/jyotigupta17998/Store_PowerBI_Dashboard) → Professional retail store sales analysis  
+- 🔹 [Excel Sales Dashboard](https://github.com/jyotigupta17998/Store-Data-Analysis-Dashboard-Using-Excel) → Vrinda Store sales dashboard with insights  
+- 🔹 [Python Email Task](https://github.com/jyotigupta17998/email-address-task-python) → Automating employee email creation  
+
+---
+
+## 📊 GitHub Stats
+![Jyoti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jyotigupta17998&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jyotigupta17998&layout=compact&theme=radical)  
+
+---
+- 🔍 Open to **Data Analyst / BI Analyst opportunities**  
+
+---
+
+## 🛠 Tech Stack
+- **Languages & Tools**: Python, SQL, Excel, Power BI  
+- **Libraries**: Pandas, NumPy, Matplotlib, Scikit-learn  
+
+---
+
+## 📂 Featured Projects
 - 🎬 [SQL IMDb-Style Movie Database](https://github.com/jyotigupta17998/SQL---Real-time-mini-project-based-on-a-Movie-Database-IMDb-style)  
 - 🛍️ [Power BI Store Dashboard](https://github.com/jyotigupta17998/Store_PowerBI_Dashboard)  
 - 📊 [Excel Vrinda Store Analysis](https://github.com/jyotigupta17998/Store-Data-Analysis-Dashboard-Using-Excel)  
